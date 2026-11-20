@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "gk_c2_projection_sim — simulador da projecao em Res(k) + contraexemplo G1"
+message: "Se você usar esta ferramenta, cite o repositório-mãe e este software."
+type: software
+authors:
+  - family-names: "Soares dos Santos"
+    given-names: "Euzébio"
+    role: author
+license: MIT
+repository-code: "https://github.com/ebiossanto/IA-Research-GK-C2Sim"
+url: "https://github.com/ebiossanto/IA-Research-GK-C2Sim"
+abstract: "Núcleo: frente **C2** do projeto — algoritmo de projeção `E` com invariantes I1–I5 e o contraexemplo G1 determinístico (detector automático de violações)."
+keywords: ["proof-complexity", "bounded-arithmetic", "goedel", "krajicek",
+  "formal-methods", "reproducible-research"]
+preferred-citation:
+  type: software
+  title: "gk_c2_projection_sim — simulador da projecao em Res(k) + contraexemplo G1"
+  author:
+    - family-names: "Soares dos Santos"
+      given-names: "Euzébio"
+  year: 2026
+  url: "https://github.com/ebiossanto/IA-Research-GK-C2Sim"
+  notes: "Extraido do repositorio IA-research-Godel-e-Krajicek (MIT)."
